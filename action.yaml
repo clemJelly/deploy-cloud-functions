@@ -28,7 +28,7 @@ inputs:
     
   name:
     description: |-
-      Name of the Cloud Function.
+      myFunction
     required: true
 
   description:
