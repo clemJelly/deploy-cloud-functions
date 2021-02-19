@@ -33,7 +33,7 @@ inputs:
 
   description:
     description: |-
-      Description for the Cloud Function.
+      Description for the Cloud Functtion.
     required: false
 
   project_id:
